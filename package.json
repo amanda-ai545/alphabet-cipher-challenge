@@ -1,0 +1,23 @@
+{
+  "name": "alphabet_cipher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://andrewkjones@bitbucket.org/andrewkjones/alphabet_cipher.git"
+  },
+  "keywords": [
+    "recruitment"
+  ],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/andrewkjones/alphabet_cipher#readme"
+}
